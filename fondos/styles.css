@@ -1,0 +1,20 @@
+body {
+    background: #ccc;
+    background-image: url("img/patternBa.jpg");
+    background-repeat: repeat;
+
+}
+
+#caja {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: rgb(94, 131, 212);
+    color: white;
+}
+
+h2 {
+    color: black;
+    background-color: white;
+    background-image: url("img/patternBa1.jpg");
+    border: 5px solid blue;
+}
